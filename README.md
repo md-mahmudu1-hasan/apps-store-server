@@ -30,3 +30,5 @@ Notes
 
 - `PORT` can be set via environment variable. Defaults to `3000`.
 - The project includes `cors` and basic error handling.
+
+vercel URL : `https://hero-apps-server.vercel.app/`
